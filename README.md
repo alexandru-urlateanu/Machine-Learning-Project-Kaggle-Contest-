@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Kaggle-Contest
+# Machine Learning Project (Kaggle Contest)
 
 Translation Source Dialect Identification
 
